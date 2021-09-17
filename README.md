@@ -1,7 +1,5 @@
 # pump_it_up
 
-GitHub link - https://github.com/KasunTharaka/pump_it_up
-
 First, checked for the missing values in the given data and identified below features with missing values.
 
 ![Capture1](https://user-images.githubusercontent.com/47806722/133816352-3bdc015d-354c-41ba-b0ac-d823540f6808.PNG)
